@@ -1,0 +1,9 @@
+gpio.c:15:6:GPIOSetDir	8	static
+gpio.c:59:6:GPIOSetValue	0	static
+gpio.c:90:6:GPIOGetValueBit	0	static
+gpio.c:120:10:GPIOGetValue	0	static
+gpio.c:154:6:GPIOSetInterrupt	16	static
+gpio.c:242:6:GPIOIntEnable	8	static
+gpio.c:273:6:GPIOIntDisable	8	static
+gpio.c:304:10:GPIOIntStatus	0	static
+gpio.c:341:6:GPIOIntClear	8	static

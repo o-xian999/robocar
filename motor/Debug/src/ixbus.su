@@ -1,0 +1,6 @@
+ixbus.c:66:6:I2C_IRQHandler	8	static
+ixbus.c:180:10:I2CStart	0	static
+ixbus.c:206:10:I2CStop	0	static
+ixbus.c:216:10:I2C_init	0	static
+ixbus.c:251:10:I2CEngine	16	static
+ixbus.c:32:15:Get_IX008	48	static
